@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Gela </h1>
+<h1 align="center">Hi,   I'm Gela </h1>
 
 <p align="center">
   Creative Designer • Frontend Learner • Aesthetic Builder
