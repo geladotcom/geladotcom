@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm YOUR_NAME ✨</h1>
 
-<!--
-**geladotcom/geladotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎨 Creative Designer • 💻 Frontend Learner • ✨ Aesthetic Builder
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Design+%7C+Code+%7C+Creativity;UI%2FUX+Enthusiast;Canva+%26+Affinity+Designer;Always+learning+new+things+✨" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+```yaml
+Name: YOUR_NAME
+Focus: UI/UX + Graphic Design + Frontend
+Tools: Canva, Affinity, Ibis Paint
+Currently Learning: Web Development & Design Systems
+Fun Fact: I turn ideas into visuals ✨
