@@ -13,7 +13,8 @@
 ## About Me
 
 ```yaml
-Name: YOUR_NAME
+Name: Mary Angela Peralta
+Nickname: Gela
 Focus: UI/UX + Graphic Design + Frontend
 Tools: Canva, Affinity, Ibis Paint
 Currently Learning: Web Development & Design Systems
