@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm YOUR_NAME ✨</h1>
+<h1 align="center">Hi, Gela </h1>
 
 <p align="center">
-  🎨 Creative Designer • 💻 Frontend Learner • ✨ Aesthetic Builder
+  Creative Designer • Frontend Learner • Aesthetic Builder
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 ```yaml
 Name: YOUR_NAME
 Focus: UI/UX + Graphic Design + Frontend
 Tools: Canva, Affinity, Ibis Paint
 Currently Learning: Web Development & Design Systems
-Fun Fact: I turn ideas into visuals ✨
+Fun Fact: I turn ideas into visuals!
